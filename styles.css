@@ -1,0 +1,8 @@
+body {
+    
+    image: url("./download.png");
+    
+}
+.Super{height: 500px; width: 750px; text-align: center;}
+.para1{color: blueviolet; font-family:sans-serif ; text-align: center;}
+.para2{color: cadetblue; font-family: sans-serif ;}
